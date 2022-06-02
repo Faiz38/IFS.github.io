@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7f41354aa49228ac582408c58646e682",
+  "assets/AssetManifest.json": "2e584f877002e11cfc645cef1774ddf0",
 "assets/assets/360_F_419149934_WSp3kO3EV5sRz72REbTG3C4qU3wag8F2.jpg": "15477312c8bd376a6da483630d01d681",
 "assets/assets/506-5060451_smiley-clipart-apple-emoji-smile-hd-png-download.png": "e2e6a4f8bc503900051331fbbcb537cd",
 "assets/assets/hand-icon-vector-21679703.jpg": "502e94be1371308cd66571ad2287dcf0",
 "assets/assets/icons8-arrow-64.png": "f821f11ae6e4c49387f821fb1470eb5f",
 "assets/assets/icons8-kitchen-lamp-64.png": "5604ade99fbf04b2410dbd4c23520622",
+"assets/assets/icons8-opinion-64.png": "f0fe4b0369efea58a2eb1e6f25a6a093",
+"assets/assets/icons8-palm-scan.gif": "f28d99f09fa3d63608f603f6189d4880",
 "assets/assets/icons8-paper-towel-60.png": "bf79abd1b7bde842dd59c783c19942c8",
 "assets/assets/icons8-slippery-floor-100.png": "ba567ef4ad2aeddc1a6cc555b8fe9437",
 "assets/assets/icons8-smelling-100.png": "d6ad4347b42440fe3c1042f209360b18",
@@ -32,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5dad6ab03b2749e13b4a5ca39efa5139",
-"/": "5dad6ab03b2749e13b4a5ca39efa5139",
-"main.dart.js": "891db1e465f98634523f7c51c7513a15",
+"index.html": "b333d7ecf8af56043dc6cb14e073deb2",
+"/": "b333d7ecf8af56043dc6cb14e073deb2",
+"main.dart.js": "2580b2d369233a3099c372595574b20e",
 "manifest.json": "0b02bd9c0f8a2cb1c72860f759912964",
 "version.json": "a5153c5f5890a4c76e35e9c34a2cbb49"
 };
